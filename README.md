@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgaikwad200&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgaikwad200" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamgaikwad200" alt="shivamgaikwad200" /></a> </p>
-
 - 🌱 I’m currently learning **Jetpack Compose, Firebase**
 
 - 📫 How to reach me **shivamgaikwad_22933@aitpune.edu.in**
