@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://twitter.com/shivam95868731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam95868731" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/shivam-gaikwad-816a3725b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivam-gaikwad-816a3725b" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/teevra_chaukas_1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/teevra_chaukas_1911" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shivamgaikwad200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivamgaikwad200/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/teevra_chaukas_1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/teevra_chaukas_1911" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shivamgaikwad200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivamgaikwad200/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
